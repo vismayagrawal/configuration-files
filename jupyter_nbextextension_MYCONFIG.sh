@@ -1,4 +1,4 @@
-jupyter nbextension enable autosavetime/main --sys-prefi
+jupyter nbextension enable autosavetime/main --sys-prefix
 jupyter nbextension enable codefolding/main --sys-prefix
 jupyter nbextension enable collapsible_headings/main --sys-prefix
 jupyter nbextension enable datestamper/main --sys-prefix
