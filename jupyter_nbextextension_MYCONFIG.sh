@@ -5,7 +5,6 @@ jupyter nbextension enable datestamper/main --sys-prefix
 jupyter nbextension enable execute_time/ExecuteTime --sys-prefix
 jupyter nbextension enable freeze/main --sys-prefix
 jupyter nbextension enable highlight_selected_word/main --sys-prefix
-jupyter nbextension enable hinterland/hinterland --sys-prefix
 jupyter nbextension enable printview/main --sys-prefix
 jupyter nbextension enable scratchpad/main --sys-prefix
 jupyter nbextension enable snippets_menu/main --sys-prefix
